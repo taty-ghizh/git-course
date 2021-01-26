@@ -1,3 +1,0 @@
-# Don't listen voices in your head
-
-Or listen... 
